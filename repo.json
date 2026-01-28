@@ -1,0 +1,106 @@
+{
+  "_meta": {
+    "version": 1,
+    "last_updated": "2026-01-28T10:46:46.667239Z"
+  },
+  "Acme-Nextjs-Demo": {
+    "_meta": {
+      "commit": "a8cabbd6b735fb322834c4ecd6cb6cbcad48cd56"
+    }
+  },
+  "AvaChat": {
+    "_meta": {
+      "commit": "c7ac31328933f16c38a7db814afd75a98caaf8c5"
+    }
+  },
+  "azmuth": {
+    "_meta": {
+      "commit": "9cd0c96aeb808497daccc2aad87537ea71613fba"
+    }
+  },
+  "Calculator": {
+    "_meta": {
+      "commit": "70791edc0003dd0a41de8939040db015eca3d5e4"
+    }
+  },
+  "Candidly": {
+    "_meta": {
+      "commit": "bfaa6ef743945a621fa58c946fa1fafccb16affa"
+    }
+  },
+  "CandidlyAPI": {
+    "_meta": {
+      "commit": "a5aa7e18258b21c07efe916888747302a9b3eed6"
+    }
+  },
+  "Connect": {
+    "_meta": {
+      "commit": "14f54ef76bcf7fd243fc743eea5d882dde796643"
+    }
+  },
+  "Customer_Satisfaction_MLOps": {
+    "_meta": {
+      "commit": "f6397c9b95135ab308eaad94f65853207bed9bdf"
+    }
+  },
+  "Fashionable": {
+    "_meta": {
+      "commit": "88e9f4aa57688ca02ebf6e8be1ed398ac3fa4040"
+    }
+  },
+  "FitTrack": {
+    "_meta": {
+      "commit": "6f364251e1c42cc73a07a6bf52b4ec3e857efdbd"
+    }
+  },
+  "Gemini_Code_Context": {
+    "_meta": {
+      "commit": "697f707e405a4074aeb89a354ca7ab1c435bd398"
+    }
+  },
+  "Hands_On_Machine_Learning": {
+    "_meta": {
+      "commit": "f94650b7c3048e9f3cce46c7ad3d7ab3f8659a6b"
+    }
+  },
+  "House_price_prediction_model": {
+    "_meta": {
+      "commit": "cb54d167c6dbb8995ac7442a7c54412d41a6d511"
+    }
+  },
+  "Iris_Classification": {
+    "_meta": {
+      "commit": "0becb72b95b7ce34a834881cb815df59d1db626a"
+    }
+  },
+  "Movie_Recommendation_system_collaborative_filtering": {
+    "_meta": {
+      "commit": "40b2228a11163ee48dc04fc3838cbd2136053cee"
+    }
+  },
+  "Movie_Recommendation_System_Content_Based": {
+    "_meta": {
+      "commit": "4c3bd9590ed9d0c550fce7f733e0911ed6aa8aa8"
+    }
+  },
+  "Prompt_Portfolio": {
+    "_meta": {
+      "commit": "e6f77cff7603873f68e352d80c8ff7c6cfb296db"
+    }
+  },
+  "RepoLoc": {
+    "_meta": {
+      "commit": "7adc8b359021ec60b9edc2c955d02cd07209f2ed"
+    }
+  },
+  "SmartBridge_EPBL": {
+    "_meta": {
+      "commit": "c83d10d7f5fd63a9aa4a125f057526ae6b3877ed"
+    }
+  },
+  "Solar_Dashboard": {
+    "_meta": {
+      "commit": "8360acaf2050f056f27a8f2ef39538b476da8698"
+    }
+  }
+}
