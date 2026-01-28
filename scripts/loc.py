@@ -86,12 +86,16 @@ def calculate_repo_loc(repo_dir: Path, ignore_patterns) -> dict[str, int]:
 
     for root, _, files in os.walk(repo_dir):
         root_path = Path(root)
-        if is_ignored(root_path, ignore_patterns):
+        rel_root = root_path.relative_to(repo_dir)
+
+        if is_ignored(rel_root, ignore_patterns):
             continue
 
         for file in files:
             file_path = root_path / file
-            if is_ignored(file_path, ignore_patterns):
+            rel_file = file_path.relative_to(repo_dir)
+
+            if is_ignored(rel_file, ignore_patterns):
                 continue
 
             lang = LANG_MAP.get(file_path.suffix)
