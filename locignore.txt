@@ -74,6 +74,7 @@ next-env.d.ts
 ####################################
 # shadcn / UI / assets
 ####################################
+ui/
 components.json
 ui.json
 *.svg

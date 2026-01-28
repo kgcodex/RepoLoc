@@ -26,6 +26,7 @@ def load_ignore_patterns(path="../locignore.txt") -> list:
 
 def is_ignored(path: Path, patterns: list) -> bool:
     for p in patterns:
+        p = p.rstrip("/")
         if fnmatch.fnmatch(path.name, p) or p in path.parts:
             return True
     return False

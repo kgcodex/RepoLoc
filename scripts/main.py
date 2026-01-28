@@ -39,7 +39,7 @@ def main(fresh: bool):
             repo_dir = Path(temp) / repo_name
 
             subprocess.run(
-                ["git", "clone", repo_data["clone_url"], repo_dir],
+                ["git", "clone", "--depth=1", repo_data["clone_url"], repo_dir],
                 stdout=subprocess.DEVNULL,
                 stderr=subprocess.DEVNULL,
                 check=True,
