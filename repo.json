@@ -1,12 +1,14 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-01-28T10:46:46.667239Z"
+    "last_updated": "2026-01-28T17:31:59.440918Z"
   },
   "Acme-Nextjs-Demo": {
     "_meta": {
       "commit": "a8cabbd6b735fb322834c4ecd6cb6cbcad48cd56"
-    }
+    },
+    "TypeScript": 669,
+    "JavaScript": 6
   },
   "AvaChat": {
     "_meta": {
@@ -26,32 +28,41 @@
   "Candidly": {
     "_meta": {
       "commit": "bfaa6ef743945a621fa58c946fa1fafccb16affa"
-    }
+    },
+    "JavaScript": 1029
   },
   "CandidlyAPI": {
     "_meta": {
       "commit": "a5aa7e18258b21c07efe916888747302a9b3eed6"
-    }
+    },
+    "Python": 104
   },
   "Connect": {
     "_meta": {
       "commit": "14f54ef76bcf7fd243fc743eea5d882dde796643"
-    }
+    },
+    "Python": 1467,
+    "JavaScript": 24,
+    "TypeScript": 1405
   },
   "Customer_Satisfaction_MLOps": {
     "_meta": {
       "commit": "f6397c9b95135ab308eaad94f65853207bed9bdf"
-    }
+    },
+    "Python": 324
   },
   "Fashionable": {
     "_meta": {
       "commit": "88e9f4aa57688ca02ebf6e8be1ed398ac3fa4040"
-    }
+    },
+    "Python": 472,
+    "JavaScript": 424
   },
   "FitTrack": {
     "_meta": {
       "commit": "6f364251e1c42cc73a07a6bf52b4ec3e857efdbd"
-    }
+    },
+    "Python": 194
   },
   "Gemini_Code_Context": {
     "_meta": {
@@ -76,12 +87,14 @@
   "Movie_Recommendation_system_collaborative_filtering": {
     "_meta": {
       "commit": "40b2228a11163ee48dc04fc3838cbd2136053cee"
-    }
+    },
+    "Python": 19
   },
   "Movie_Recommendation_System_Content_Based": {
     "_meta": {
       "commit": "4c3bd9590ed9d0c550fce7f733e0911ed6aa8aa8"
-    }
+    },
+    "Python": 43
   },
   "Prompt_Portfolio": {
     "_meta": {
@@ -90,17 +103,20 @@
   },
   "RepoLoc": {
     "_meta": {
-      "commit": "7adc8b359021ec60b9edc2c955d02cd07209f2ed"
-    }
+      "commit": "0a05383fba132d41cbc57e3a34cfda7390b40f10"
+    },
+    "Python": 197
   },
   "SmartBridge_EPBL": {
     "_meta": {
       "commit": "c83d10d7f5fd63a9aa4a125f057526ae6b3877ed"
-    }
+    },
+    "Python": 96
   },
   "Solar_Dashboard": {
     "_meta": {
       "commit": "8360acaf2050f056f27a8f2ef39538b476da8698"
-    }
+    },
+    "Python": 159
   }
 }
