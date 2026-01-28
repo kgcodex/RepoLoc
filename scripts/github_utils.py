@@ -8,6 +8,9 @@ def github_get(url: str):
         headers={"Authorization": f"token {TOKEN}"},
         timeout=30,
     )
+    if req.status_code == 409:
+        return None
+
     req.raise_for_status()
     return req.json()
 
@@ -31,6 +34,9 @@ def fetch_repos() -> dict[str, dict[str, str]]:
             commit_sha = github_get(
                 f"{GITHUB_API}/repos/{USERNAME}/{repo['name']}/commits/{repo['default_branch']}"
             )
+            if not commit_sha:
+                continue
+
             repos[repo["name"]] = {
                 "clone_url": repo["clone_url"],
                 "default_branch": repo["default_branch"],
