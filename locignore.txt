@@ -1,0 +1,146 @@
+####################################
+# Dependency directories
+####################################
+node_modules/
+venv/
+.env/
+.env.*/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+ruff_cache/
+coverage/
+.cache/
+
+####################################
+# Python / Django
+####################################
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+db.sqlite3
+local_settings.py
+settings_local.py
+manage.py
+migrations/
+staticfiles/
+media/
+
+####################################
+# Node / JS / TS
+####################################
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+####################################
+# Lock files (not real code)
+####################################
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+poetry.lock
+Pipfile.lock
+requirements.txt
+requirements-dev.txt
+
+####################################
+# Build / output directories
+####################################
+dist/
+build/
+.out/
+.next/
+.vercel/
+.netlify/
+storybook-static/
+coverage/
+tmp/
+temp/
+
+####################################
+# Vite / React / Next.js
+####################################
+.vite/
+.eslintcache
+tsconfig.tsbuildinfo
+next-env.d.ts
+.env.local
+.env.production
+.env.development
+
+####################################
+# shadcn / UI / assets
+####################################
+components.json
+ui.json
+*.svg
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.ico
+*.woff
+*.woff2
+*.ttf
+*.eot
+
+####################################
+# HTML / CSS (excluded by design)
+####################################
+*.html
+*.css
+*.scss
+*.sass
+*.less
+*.styl
+*.postcss
+
+####################################
+# Config files (not executable logic)
+####################################
+*.json
+*.yaml
+*.yml
+*.toml
+*.ini
+*.cfg
+*.conf
+*.env
+
+####################################
+# Minified / bundled files
+####################################
+*.min.js
+*.min.css
+*.bundle.js
+*.chunk.js
+
+####################################
+# Docs / markdown
+####################################
+*.md
+*.rst
+*.txt
+
+####################################
+# Git / CI
+####################################
+.git/
+.github/
+.gitignore
+.gitattributes
+
+####################################
+# OS / editor
+####################################
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
