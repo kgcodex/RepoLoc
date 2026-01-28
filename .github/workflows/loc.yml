@@ -1,7 +1,7 @@
 name: Github LOC
 
 permissions:
-  content: write
+  contents: write
 
 on:
   workflow_dispatch:
