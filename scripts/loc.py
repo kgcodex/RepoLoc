@@ -14,9 +14,15 @@ LANG_MAP = {
 }
 
 
-def load_ignore_patterns(path="../locignore.txt") -> list:
+def load_ignore_patterns() -> list:
+    base_dir = Path(__file__).resolve().parent.parent
+    ignore_file = base_dir / "locignore.txt"
+
     patterns = []
-    with open(path) as f:
+    if not ignore_file.exists():
+        return patterns
+
+    with open(ignore_file) as f:
         for line in f:
             line = line.strip()
             if line and not line.startswith("#"):
