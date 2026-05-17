@@ -1,7 +1,7 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-05-10T02:28:21.901854Z"
+    "last_updated": "2026-05-17T02:35:26.701773Z"
   },
   "Acme-Nextjs-Demo": {
     "_meta": {
@@ -103,7 +103,7 @@
   },
   "RepoLoc": {
     "_meta": {
-      "commit": "bad7f2c662827913ddb40328b1c3e60c8607eee4"
+      "commit": "08e18f88b8724ea61aea4db4f43032fda644d1a5"
     },
     "Python": 197
   },
@@ -143,5 +143,11 @@
     },
     "JavaScript": 424,
     "TypeScript": 1815
+  },
+  "doxite": {
+    "_meta": {
+      "commit": "de7b3c6c82149653c158149d94c0e5399ec1a2f9"
+    },
+    "Python": 467
   }
 }
