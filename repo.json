@@ -1,28 +1,11 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-05-24T02:43:16.481406Z"
-  },
-  "Acme-Nextjs-Demo": {
-    "_meta": {
-      "commit": "a8cabbd6b735fb322834c4ecd6cb6cbcad48cd56"
-    },
-    "TypeScript": 669,
-    "JavaScript": 6
-  },
-  "AvaChat": {
-    "_meta": {
-      "commit": "c7ac31328933f16c38a7db814afd75a98caaf8c5"
-    }
+    "last_updated": "2026-05-31T02:52:32.059770Z"
   },
   "azmuth": {
     "_meta": {
       "commit": "9cd0c96aeb808497daccc2aad87537ea71613fba"
-    }
-  },
-  "Calculator": {
-    "_meta": {
-      "commit": "70791edc0003dd0a41de8939040db015eca3d5e4"
     }
   },
   "Candidly": {
@@ -64,11 +47,6 @@
     },
     "Python": 194
   },
-  "Gemini_Code_Context": {
-    "_meta": {
-      "commit": "697f707e405a4074aeb89a354ca7ab1c435bd398"
-    }
-  },
   "Hands_On_Machine_Learning": {
     "_meta": {
       "commit": "f94650b7c3048e9f3cce46c7ad3d7ab3f8659a6b"
@@ -103,7 +81,7 @@
   },
   "RepoLoc": {
     "_meta": {
-      "commit": "cab9cb39c7ec17a43c61e22efa1cc60815eb4c98"
+      "commit": "ffd5614bfc548375e0eaf2b5060f091bb7fe2b5b"
     },
     "Python": 197
   },
@@ -121,7 +99,7 @@
   },
   "Mojito": {
     "_meta": {
-      "commit": "07ce032c626d33987749e099abb07d2ac2904dbd"
+      "commit": "c68ffd03d9cc38a7f474d9f6f8cd662f682700e7"
     },
     "JavaScript": 828
   },
@@ -139,15 +117,15 @@
   },
   "Zync": {
     "_meta": {
-      "commit": "400d163a59dd8cd310e8c64d7e7c7890bd10af0d"
+      "commit": "4e78ec524e1873c3008a4516ffb404b5596ef7ae"
     },
     "JavaScript": 424,
     "TypeScript": 1815
   },
   "doxite": {
     "_meta": {
-      "commit": "b3dfbbaf98cd114d10b1298237901f3aeb9e377c"
+      "commit": "035959da39ac30216be0bf8def3d5027f0f4f6ad"
     },
-    "Python": 798
+    "Python": 989
   }
 }
