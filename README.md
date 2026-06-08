@@ -1,7 +1,7 @@
 # RepoLoc
 
 <div align="center">
-  <img src="RepoLoc.gif" width="700" style="border-radius: 12px;" />
+  <img src="RepoLoc.png" width="700" style="border-radius: 12px;" />
 </div>
 
 An incremental, cache-aware Lines of Code (LOC) analyzer for GitHub profiles, built with Python and GitHub Actions.
