@@ -1,7 +1,7 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-06-28T02:52:40.648531Z"
+    "last_updated": "2026-07-05T02:33:00.223406Z"
   },
   "azmuth": {
     "_meta": {
@@ -81,7 +81,7 @@
   },
   "RepoLoc": {
     "_meta": {
-      "commit": "3250b3fdd59a70b53bf8ca7f70ab823fca93fcd6"
+      "commit": "b990b0d136f37b4a9e3bd95a0fa71c14554ee31a"
     },
     "Python": 197
   },
@@ -133,5 +133,17 @@
       "commit": "4c4dd275be87084f28a31b9fb0230c6ab63f8edc"
     },
     "TypeScript": 929
+  },
+  "Binance_Trading_Bot": {
+    "_meta": {
+      "commit": "b082d020d973342ffab858e035d41691617577a1"
+    },
+    "Python": 425
+  },
+  "tuttifrutti": {
+    "_meta": {
+      "commit": "94a884c87ccd24037beacbfdcc660246d88e0029"
+    },
+    "Python": 84
   }
 }
